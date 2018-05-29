@@ -1,0 +1,5 @@
+<Start>
+
+print('Hello, World!)')
+
+</Start>
