@@ -1,2 +1,5 @@
 Hello World!!!
-Lets do something)
+Lets0 do something)
+useFitcha1();
+useFitcha2();
+exit;
